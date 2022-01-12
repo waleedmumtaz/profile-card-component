@@ -8,12 +8,3 @@
     font-size: 18px;
   }
 }
-
-@layer components {
-  .background-pattern {
-    background-image: url('/assets/bg-pattern-top.svg'),
-      url('/assets/bg-pattern-bottom.svg');
-    background-repeat: no-repeat, no-repeat;
-    background-position: -750px -550px, 150px 400px;
-  }
-}

@@ -1,5 +1,5 @@
-<main class="flex-1 flex flex-col justify-center">
-  <div class="mx-5 rounded-2xl bg-white pb-10">
+<main class="flex-1 flex flex-col justify-center z-40">
+  <div class="mx-5 rounded-2xl bg-white pb-10 md:w-full md:max-w-md md:mx-auto">
     <div>
       <img
         src="/assets/bg-pattern-card.svg"
